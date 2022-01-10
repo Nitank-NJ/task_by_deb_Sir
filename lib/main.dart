@@ -562,7 +562,8 @@ class _MyHomePageState extends State<MyHomePage> {
                                                   style: GoogleFonts.lato(
                                                     fontSize: 25,
                                                     fontWeight: FontWeight.bold,
-                                                  )),
+                                                  ),
+                                              ),
                                             ),
                                             Container(
                                               height: 40,

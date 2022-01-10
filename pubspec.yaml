@@ -35,6 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   google_fonts: ^2.2.0
+  carousel_slider: ^4.0.0
 
 dev_dependencies:
   flutter_test:
@@ -71,6 +72,17 @@ flutter:
   - assets/favorite.png
   - assets/2.jpg
   - assets/menu.png
+  - assets/detail.jpg
+  - assets/deta.jpg
+  - assets/det.jpg
+  - assets/seeding.png
+  - assets/vegan.png
+  - assets/world.png
+  - assets/rating.png
+  - assets/star.png
+  - assets/sstar.png
+  - assets/shopping-bag.png
+  - assets/cross.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
